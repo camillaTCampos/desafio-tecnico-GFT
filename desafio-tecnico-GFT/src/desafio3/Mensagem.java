@@ -1,5 +1,7 @@
 package desafio3;
 
+// Não consegui desenvolver as funções.
+
 public class Mensagem {
 	 private String texto;
 	 private String[] reacao = new String[6];
